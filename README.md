@@ -8,3 +8,7 @@ Sup?
 Yayyy
 
 We pulled our first repository on JupyterLab...
+
+Now...Let's pull it back
+
+Woohoo
